@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - I am currenty pursuing a Masters degree in Data Science 👨‍🎓
 - I am interested in using data in the crime analysis or financial field
 - Military veteran and Outdoor enthusiast ⛰️🥾
-- 
+
