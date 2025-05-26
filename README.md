@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am currenty pursuing a Masters degree in Data Science 👨‍🎓
-- I am interested in using data in the crime analysis or financial field
+- I am interested in working on many different projects! Now that I know how to code and build ML models I want to do everything all at once!
 - Military veteran and Outdoor enthusiast ⛰️🥾
 
